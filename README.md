@@ -58,4 +58,6 @@ Throughout the project, I had the opportunity to:
     - Job Role Impact: Laboratory technician roles saw the highest turnover, pointing to challenges in this area.
     - Age & Gender: Employees aged 25–34 had the highest attrition count(116; Male:70 and Female:46 ), emphasizing a retention challenge in this demographic.
 
-    
+__Screenshot of the dashboard:__
+
+![Dashboard Preview:](https://github.com/Swarnali-Saha/HR_Analytics-Dashboard/blob/main/HR_Analytics%20Dashboard.png)
