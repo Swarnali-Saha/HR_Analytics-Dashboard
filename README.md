@@ -60,4 +60,4 @@ Throughout the project, I had the opportunity to:
 
 __Screenshot of the dashboard:__
 
-![Dashboard Preview:](https://github.com/Swarnali-Saha/HR_Analytics-Dashboard/blob/main/Dashboard.png)
+![Dashboard Preview:](https://github.com/Swarnali-Saha/HR_Analytics-Dashboard/blob/main/HR_Analytics%20Dashboard.png)
